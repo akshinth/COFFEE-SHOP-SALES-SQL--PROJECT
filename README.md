@@ -203,10 +203,10 @@ Query Explanation:
         ORDER BY 
             DAY(transaction_date);
 
-    ![image](https://github.com/akshinth/COFFEE-SHOP-SALES-SQL--PROJECT/assets/108680058/46634183-11c9-4a07-bcef-4cd683a66fd3)
+    ![image](https://github.com/akshinth/COFFEE-SHOP-SALES-SQL--PROJECT/assets/108680058/46634183-11c9-4a07-bcef-4cd683a66fd3)          ![image](https://github.com/akshinth/COFFEE-SHOP-SALES-SQL--PROJECT/assets/108680058/5f0ce014-91d2-42f0-95be-4533b509ab65)
 
-    ![image](https://github.com/akshinth/COFFEE-SHOP-SALES-SQL--PROJECT/assets/108680058/5f0ce014-91d2-42f0-95be-4533b509ab65)
 
+   
 
 COMPARING DAILY SALES WITH AVERAGE SALES – IF GREATER THAN “ABOVE AVERAGE” and LESSER THAN “BELOW AVERAGE”
 
