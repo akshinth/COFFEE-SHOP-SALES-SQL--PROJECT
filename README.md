@@ -1,5 +1,8 @@
 ## COFFEE SHOP SALES PROJECT
 ## MY SQL QUERIES
+### Description 
+This project aimed to transform raw sales data from a coffee shop into actionable insights using MySQL. By standardizing date and time formats and correcting data types, we ensured data consistency. Key metrics such as total sales, total orders, and total quantity sold were computed, including Month-over-Month growth, to assess performance trends. The project also analyzed sales by day, hour, location, product category, and top-selling products. These insights help in understanding customer behavior, optimizing inventory, and making data-driven decisions to enhance sales strategies and business operations.
+
 
 1) CONVERT DATE (transaction_date) COLUMN TO PROPER DATE FORMAT
        
